@@ -16,3 +16,8 @@
 
 <h3> Task 2 </h3>
 <h4>Used <a href="https://github.com/Sivadasps/Delloitte-data-analytics-job-simulation/blob/main/Task%205%20Equality%20Table.xlsx" target="_blank">Excel</a> to classify data and draw business conclusions.</h4>
+<h4>Create a 4th column (Equality class), classifying the equality score into 3 types:</h4>
+<ol>
+<li>Fair (+-10)</li>
+<li>Unfair (<-10 AND >10)</li>
+<li>Highly Discriminative (<-20 AND >20)</li></ol>
