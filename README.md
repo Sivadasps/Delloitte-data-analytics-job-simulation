@@ -6,4 +6,4 @@
 <li>Used Excel to classify data and draw business conclusions </li>
 </ul>
 
-<img src="">
+<img src="https://github.com/Sivadasps/Delloitte-data-analytics-job-simulation/blob/main/Screenshot%202025-04-11%20101831.png">
