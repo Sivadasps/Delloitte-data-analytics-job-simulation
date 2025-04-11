@@ -13,3 +13,6 @@
 <li>Daikibo Factory Seiko (Osaka, Japan) is the location where the machines break the most.</li>
 <li>LaserWelder is the device in that location which is most unhealthy.</li>  
 </ul>
+
+<h3> Task 2 </h3>
+<h4>Used <a href="https://8weeksqlchallenge.com/case-study-1/" target="_blank">Excel</a>a   to classify data and draw business conclusions</h4>
