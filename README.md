@@ -15,4 +15,4 @@
 </ul>
 
 <h3> Task 2 </h3>
-<h4>Used <a href="https://8weeksqlchallenge.com/case-study-1/" target="_blank">Excel</a>a   to classify data and draw business conclusions</h4>
+<h4>Used <a href="https://github.com/Sivadasps/Delloitte-data-analytics-job-simulation/blob/main/Task%205%20Equality%20Table.xlsx" target="_blank">Excel</a> to classify data and draw business conclusions.</h4>
