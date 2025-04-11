@@ -25,3 +25,6 @@
 <h4>Answer</h4>
 <img src="https://github.com/Sivadasps/Delloitte-data-analytics-job-simulation/blob/main/Screenshot%202025-04-11%20115305.png">
 
+<h3>Certificate</h3>
+<img src="https://github.com/Sivadasps/Delloitte-data-analytics-job-simulation/blob/main/certificate.png">
+
