@@ -1,4 +1,4 @@
-# Delloitte-data-analytics-job-simulation
+# Deloitte-data-analytics-job-simulation
 
 <h3>I just completed Deloitte Australia's Data Analytics on Forage.</h3>
 <ul>
