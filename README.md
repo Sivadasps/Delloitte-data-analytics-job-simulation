@@ -21,3 +21,7 @@
 <li>Fair (+-10)</li>
 <li>Unfair (<-10 AND >10)</li>
 <li>Highly Discriminative (<-20 AND >20)</li></ol>
+
+<h4>Answer</h4>
+<img src="https://github.com/Sivadasps/Delloitte-data-analytics-job-simulation/blob/main/Screenshot%202025-04-11%20115305.png">
+
